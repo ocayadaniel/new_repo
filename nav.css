@@ -1,0 +1,56 @@
+*{
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+
+
+}
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a{
+    font-size: 35px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding-left: 15px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    font-size: bold;
+    font-weight: 15px;
+    margin-right: 15
+    px;
+}
+
+button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+button a{
+    color: white;
+    font-size: smaller;
+    font-weight: bold;
+    
+}
+
+
